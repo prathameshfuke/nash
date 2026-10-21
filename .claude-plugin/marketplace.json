@@ -1,0 +1,18 @@
+{
+  "name": "nash",
+  "description": "Game-theoretic parallel agents for Claude Code",
+  "owner": {
+    "name": "prathameshfuke"
+  },
+  "plugins": [
+    {
+      "name": "nash",
+      "description": "A game-theory dev team for Claude Code: decide, review, debug, test and loop with parallel agents that compete instead of herd.",
+      "version": "0.2.0",
+      "source": "./",
+      "author": {
+        "name": "prathameshfuke"
+      }
+    }
+  ]
+}

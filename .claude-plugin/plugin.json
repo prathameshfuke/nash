@@ -1,0 +1,21 @@
+{
+  "name": "nash",
+  "description": "A game-theory dev team for Claude Code: decide, review, debug, test and loop with parallel agents that compete instead of herd.",
+  "version": "0.2.0",
+  "author": {
+    "name": "prathameshfuke"
+  },
+  "homepage": "https://github.com/prathameshfuke/nash",
+  "repository": "https://github.com/prathameshfuke/nash",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "multi-agent",
+    "subagents",
+    "game-theory",
+    "code-review",
+    "debugging",
+    "mutation-testing",
+    "agent-loop"
+  ]
+}

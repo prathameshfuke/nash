@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+  <rect width="1280" height="400" rx="20" fill="#0B0F1A"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <!-- decide -->
+    <text x="60" y="72" font-size="15" fill="#8A93A6" letter-spacing="2">/NASH:DECIDE · DISTINCT APPROACHES</text>
+    <text x="60" y="132" font-size="18" fill="#B8C0D0">Plain fan-out</text>
+    <rect x="230" y="112" width="360" height="28" rx="6" fill="#161D2E"/>
+    <rect x="230" y="112" width="72" height="28" rx="6" fill="#5B6478"/>
+    <text x="606" y="133" font-size="20" font-weight="700" fill="#B8C0D0">1 / 5</text>
+    <text x="60" y="192" font-size="18" fill="#E8ECF4">nash</text>
+    <rect x="230" y="172" width="360" height="28" rx="6" fill="#3DD6C4"/>
+    <text x="606" y="193" font-size="20" font-weight="700" fill="#3DD6C4">5 / 5</text>
+
+    <!-- test -->
+    <text x="700" y="72" font-size="15" fill="#8A93A6" letter-spacing="2">/NASH:TEST · MUTATION SCORE</text>
+    <text x="700" y="132" font-size="18" fill="#B8C0D0">Existing tests</text>
+    <rect x="860" y="112" width="300" height="28" rx="6" fill="#161D2E"/>
+    <rect x="860" y="112" width="115" height="28" rx="6" fill="#E5534B"/>
+    <text x="1176" y="133" font-size="20" font-weight="700" fill="#E5534B">38%</text>
+    <text x="700" y="192" font-size="18" fill="#E8ECF4">After nash</text>
+    <rect x="860" y="172" width="300" height="28" rx="6" fill="#F5B841"/>
+    <text x="1176" y="193" font-size="20" font-weight="700" fill="#F5B841">100%</text>
+
+    <line x1="60" y1="250" x2="1220" y2="250" stroke="#1C2438" stroke-width="2"/>
+    <text x="60" y="296" font-size="20" font-weight="600" fill="#E8ECF4">8 realistic bugs were slipping past a passing test suite.</text>
+    <text x="60" y="328" font-size="17" fill="#8A93A6">13 planted mutants, 8 survived. The blue team wrote 8 tests: each passes on the original and fails on its mutant.</text>
+    <text x="60" y="366" font-size="14" fill="#5B6478">Development runs on small fixtures with one model, single runs. Demos, not benchmarks.</text>
+  </g>
+</svg>
