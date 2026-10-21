@@ -6,6 +6,12 @@
 
 Run parallel agents and they herd: same answer, same nitpicks, same blind spots, because they're copies of the same model. Nash fixes this with game theory. Every multi-agent job becomes a game whose rules make the herd's move a losing one.
 
+<p align="center">
+  <a href="assets/nash-demo.mp4"><img src="assets/demo-poster.jpg" alt="Watch the 1-minute nash demo" width="100%"></a>
+  <br>
+  <a href="assets/nash-demo.mp4"><b>▶ Watch the 1-minute demo (with narration)</b></a> · <a href="https://github.com/prathameshfuke/nash/releases/latest">4K download</a>
+</p>
+
 | Command | Pain | The game |
 |---|---|---|
 | `/nash:decide` | 10 agents, one opinion | **Focal-point breaking:** banned levers per niche, then a blind tournament |
